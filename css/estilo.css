@@ -1,0 +1,18 @@
+.logo {
+    width: 50px;
+}
+
+.anclas{
+    color: black;
+    text-decoration: none;
+}
+
+.anclas:hover{
+    text-decoration: underline;
+    color: #007bc6;
+    font-size: 20px;
+}
+
+.img_carrusel {
+    object-fit:contain;
+}
